@@ -2,13 +2,20 @@
 Proyectos y laboratorios del Certificado de Ciberseguridad de Google.
 # Mi Portafolio de Ciberseguridad
 
-Proyectos y laboratorios del Certificado de Ciberseguridad de Google.
+## 📁 Proyectos del Portafolio
 
-## 🚀 Sobre Mí
-¡Hola! Soy Henry Lopez y estoy construyendo mi camino en el mundo de la ciberseguridad a través del certificado profesional de Google. Aquí documentaré mis prácticas y análisis técnicos.
+### 🛡️ Auditoría y Gestión de Riesgos
+- **Realización de una Auditoría de Seguridad** *(Próximamente)*
+- **Identificación de Vulnerabilidades para un Pequeño Negocio (B2B)** *(Próximamente)*
 
-## 📁 Laboratorios y Proyectos
-- **Módulo 1:** Fundamentos de la Ciberseguridad *(Próximamente)*
-- **Módulo 2:** Gestión de Riesgos *(Próximamente)*
-- **Módulo 3:** Redes y Seguridad *(Próximamente)*
-- **Módulo 4:** Herramientas de Análisis Defensivo *(Próximamente)*
+### 💻 Análisis Técnico Defensivo
+- **Análisis de la Estructura y Seguridad de las Redes** *(Próximamente)*
+- **Gestión de Permisos de Archivo con Comandos de Linux** *(Próximamente)*
+- **Aplicación de Filtros a Consultas SQL para Auditoría** *(Próximamente)*
+
+### 🚨 Respuesta a Incidentes y Logs
+- **Documentación de Incidentes (Diario del Gestor de Incidentes)** *(Próximamente)*
+- **Importación y Análisis Sintáctico de Archivos de Texto (Logs)** *(Próximamente)*
+
+### 💼 Perfil Profesional
+- **Declaración Profesional y Revisión de Currículum Vitae** *(Próximamente)*
