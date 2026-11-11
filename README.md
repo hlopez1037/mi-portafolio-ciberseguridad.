@@ -2,7 +2,7 @@
 Proyectos y laboratorios del Certificado de Ciberseguridad de Google.
 # Mi Portafolio de Ciberseguridad
 
-## 📁 Proyectos del Portafolio.......
+## 📁 Proyectos del Portafolio
 
 ### 🛡️ Auditoría y Gestión de Riesgos
 - **Realización de una Auditoría de Seguridad** *(Próximamente)*
@@ -18,4 +18,5 @@ Proyectos y laboratorios del Certificado de Ciberseguridad de Google.
 - **Importación y Análisis Sintáctico de Archivos de Texto (Logs)** *(Próximamente)*
 
 ### 💼 Perfil Profesional
-- **Declaración Profesional y Revisión de Currículum Vitae** *(Próximamente)*
+-  [Declaración Profesional](Professional%20Statement.md)
+
