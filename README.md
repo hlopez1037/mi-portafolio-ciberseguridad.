@@ -5,7 +5,7 @@ Proyectos y laboratorios del Certificado de Ciberseguridad de Google.
 ## 📁 Proyectos del Portafolio
 
 ### 🛡️ Auditoría y Gestión de Riesgos
-- **Realización de una Auditoría de Seguridad** *(Próximamente)*
+* [Realización de una Auditoría de Seguridad](./01-auditoria-seguridad/README.md)
 - **Identificación de Vulnerabilidades para un Pequeño Negocio (B2B)** *(Próximamente)*
 
 ### 💻 Análisis Técnico Defensivo
