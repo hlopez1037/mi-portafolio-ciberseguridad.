@@ -6,7 +6,8 @@ Proyectos y laboratorios del Certificado de Ciberseguridad de Google.
 
 ### 🛡️ Auditoría y Gestión de Riesgos
 * [Realización de una Auditoría de Seguridad](./01-auditoria-seguridad/README.md)
-- **Identificación de Vulnerabilidades para un Pequeño Negocio (B2B)** *(Próximamente)*
+* [Identificación de Vulnerabilidades para un Pequeño Negocio (B2B)](./02-vulnerabilidades-b2b/README.md)
+
 
 ### 💻 Análisis Técnico Defensivo
 - **Análisis de la Estructura y Seguridad de las Redes** *(Próximamente)*
