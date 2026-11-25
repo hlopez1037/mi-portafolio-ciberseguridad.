@@ -11,7 +11,7 @@ Proyectos y laboratorios del Certificado de Ciberseguridad de Google.
 
 ### 💻 Análisis Técnico Defensivo
 * [Análisis de la Estructura y Seguridad de las Redes](./03-seguridad-redes/README.md)
-- **Gestión de Permisos de Archivo con Comandos de Linux** *(Próximamente)*
+* [Gestión de Permisos de Archivo con Comandos de Linux](./04-permisos-linux/README.md)
 - **Aplicación de Filtros a Consultas SQL para Auditoría** *(Próximamente)*
 
 ### 🚨 Respuesta a Incidentes y Logs
