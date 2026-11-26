@@ -89,3 +89,19 @@ Tipo    Usuario    Grupo     Otros
 * Quitar escritura al grupo: `chmod g-w archivo.txt`
 * Dar ejecución al usuario dueño: `chmod u+x script.sh`
 * Dos cambios a la vez (separados por coma, sin espacios): `chmod g-w,o-r informe.txt`
+
+* ## 🛠️ Control de Terminal y Gestión de Paquetes (`apt`)
+
+### Limpieza y Ayuda
+* `clear` (o `Ctrl + L`) — Limpia el historial visible en la pantalla de la terminal.
+* `man [comando]` — Abre el manual de instrucciones oficial de un comando (presiona `q` para salir).
+
+### Instalación y Gestión de Programas (Debian/Ubuntu)
+* `sudo [comando]` — Ejecuta una acción con privilegios de administrador (*Superuser Do*).
+* `sudo apt update` — Actualiza el índice local de paquetes disponibles en los repositorios.
+* `sudo apt install [paquete]` — Descarga e instala un programa (ej. `sudo apt install nload`).
+* `sudo apt remove [paquete]` — Desinstala un programa manteniendo sus archivos de configuración.
+
+### Monitoreo en Tiempo Real
+* `nload` — Muestra el tráfico de red entrante y saliente en tiempo real (presiona `q` o `Ctrl + C` para salir).
+
